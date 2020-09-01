@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/drive/u/0/my-drive)
+![logo](https://github.com/jinsel/Jinselfreelancer/blob/master/img/logo.png)
 
 This is my Personal Website: https://jinsel.github.io/Jinselfreelancer/
 
